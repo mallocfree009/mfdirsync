@@ -20,6 +20,8 @@ The tool offers the following subcommands for unidirectional file synchronizatio
 *   `rm`: Deletes files from the destination directory that do not exist in the source directory.
 *   `sync`: Use this command for a complete synchronization that reflects the latest file states, including deletions. It executes `cp` followed by `rm`.
 
+![ディレクトリ同期ツール](res/img.webp)
+
 ## Installation
 
 First, install Python. You can install it using your preferred method, such as from the official Python website or Anaconda.
