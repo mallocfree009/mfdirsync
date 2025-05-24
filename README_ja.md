@@ -30,7 +30,7 @@ Python公式やAnacondaなどお好みの方法でインストールしてくだ
 Pythonをインストールしたら以下を実行します
 
 ```sh
-pip install git+https://github.com/mallocfree009/mfdirsync
+pip install git+https://github.com/mallocfree009/mfdirsync.git
 ```
 
 これでmfdirsyncコマンドが利用できるようになります。

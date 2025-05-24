@@ -27,7 +27,7 @@ First, install Python. You can install it using your preferred method, such as f
 Once Python is installed, run the following command:
 
 ```sh
-pip install git+https://github.com/mallocfree009/mfdirsync
+pip install git+https://github.com/mallocfree009/mfdirsync.git
 ```
 
 This will make the `mfdirsync` command available.
