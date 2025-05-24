@@ -1,0 +1,67 @@
+# .aider*
+.aider.tags.cache*
+log
+outputs
+**/__pycache__/
+
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pyl
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.env/
+venv/
+env/
+
+# Editors
+.idea/                  # JetBrains IDEs
+.vscode/                # VS Code
+*.swp                   # Vim swap files
+*~                      # Backup files
+
+# Virtual environment (common names and paths)
+# Specific virtual environment directories
+# /bin/activate
+# /bin/activate.csh
+# /bin/activate.fish
+# /bin/activate.ps1
+# /bin/activate.sh
+# /bin/activate.bat
+# /bin/activate.nu
+# /bin/python
+# /bin/python3
+# /Scripts/activate
+# /Scripts/activate.bat
+# /Scripts/activate.ps1
+# /Scripts/deactivate.bat
+# /Scripts/pip.exe
+# /Scripts/python.exe
+# /Scripts/pythonw.exe
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# My specific log output directory (if not already ignored by *.log)
+# logs/
